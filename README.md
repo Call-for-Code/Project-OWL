@@ -1,4 +1,4 @@
-# Project-OWL
+# Project OWL
 Project OWL builds incident management technology for challenging environments.
 
 Project OWL is in the process of transitioning to Code and Response with The Linux Foundation.
