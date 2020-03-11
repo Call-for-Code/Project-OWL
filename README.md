@@ -1,6 +1,4 @@
 # Project OWL
-Project OWL builds incident management technology for challenging environments.
+[Project OWL](https://www.project-owl.com/) builds incident management technology for challenging environments.
 
-Project OWL is in the process of transitioning to Code and Response with The Linux Foundation.
-
-Its current source code and community are found in the [Project OWL](https://github.com/Project-Owl) GitHub organization.
+Its core technology has been contributed to The Linux Foundation as the [ClusterDuck-Protocol](https://github.com/Code-and-Response/ClusterDuck-Protocol).
